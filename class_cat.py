@@ -1,5 +1,5 @@
 class Cat:
-    def __init__(self, nickname='', gender='', age=None):
+    def __init__(self, nickname='', gender='', age=0):
         self.nickname = nickname
         self.gender = gender
         self.age = age
